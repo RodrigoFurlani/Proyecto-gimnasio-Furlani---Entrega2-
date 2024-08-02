@@ -1,5 +1,13 @@
 ## Proyecto gimnasio Rodrigo Furlani 
-segunda entrega proyecto SQL
+Alumno: Rodrigo Furlani
+
+Comisión: 57190
+
+Profesor: Anderson Ocaña
+
+Tutor: Ariel-annone
+
+## segunda entrega proyecto SQL
 En esta parte del proyecto avance acorde se pedia en los documentos de actividades  
 * Listado de Vistas más una descripción detallada, su objetivo.
 * Listado de Funciones que incluyan una descripción detallada y su objetivo para la cual fueron creadas.
